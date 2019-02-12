@@ -26,6 +26,7 @@ img {
 	width:120px;
 }
 #chicken {
+	z-index: 5;
 	height: 60px;
 	width: 60px;
 	top: 600px;
@@ -78,8 +79,11 @@ img {
 	left: 200px;
 }
 #plow {
-	bottom: 100px;
-	right: 100px;
+	z-index: 6;
+	bottom: 130px;
+	right: 170px;
+	height: 100px;
+	width: 100px;
 }
 #fence1 {
 	z-index: 4;
