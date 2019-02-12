@@ -5,14 +5,18 @@ img {
 	position: absolute;
 }
 #barn{
-	z-index: ;
-	height: 500px;
-	width: 500px;
-	top:-20px;
-	left: -90px;
+	z-index: 1;
+	height: 200px;
+	width: 200px;
+	top: 250px;
+	left: -30px;
 }
 #cow {
 	z-index: ;
+	height: 80px;
+	width:80px;
+	top:400px;
+	left:200px;
 }
 #pig {
 	z-index: ;
@@ -37,6 +41,10 @@ img {
 }
 #tractor {
 	z-index: ;
+	height: 35px;
+	width: 35px;
+	top: 420px;
+	left: 500px;
 }
 #haybale {
 	z-index: ;
