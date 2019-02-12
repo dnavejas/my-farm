@@ -3,6 +3,8 @@ body {
 }
 #barn{
 	z-index: ;
+	height: 500px;
+	width: 500px;
 }
 #cow {
 	z-index: ;
