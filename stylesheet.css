@@ -78,7 +78,8 @@ img {
 	left: 200px;
 }
 #plow {
-	z-index: ;
+	bottom: 100px;
+	right: 100px;
 }
 #fence1 {
 	z-index: 4;
@@ -114,8 +115,15 @@ img {
 	right:45px;
 }
 #jet {
-
+	top: 100px;
+	left: 500px;
+	height: 80px;
+	width: 160px;
 }
 #fire {
 	z-index: 5;
+	top: 100px;
+	right: 200px;
+	height:40px;
+	width:40px;
 }
