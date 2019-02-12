@@ -42,12 +42,14 @@ img {
 	z-index: ;
 }
 #horse {
-	z-index: ;
+	z-index: 2;
+	bottom:100px;
+	left:300px;
 }
 #farmer {
 	z-index: 5;
 	bottom: 30px;
-	left: 100px;
+	left: 500px;
 	height: 180px;
 	width: 180px;
 }
@@ -68,6 +70,31 @@ img {
 #plow {
 	z-index: ;
 }
-#fence {
+#fence1 {
 	z-index: 4;
+	bottom: 30px;
+	left: 490px;
+	height: 100px;
+	width: 200px;
+}
+#fence2 {
+	z-index: 4;
+	bottom: 30px;
+	left: 300px;
+	height: 100px;
+	width: 200px;
+}
+#fence3 {
+	z-index: 4;
+	bottom: 30px;
+	right: 370px;
+	height: 100px;
+	width: 200px;
+}
+#fence4 {
+	z-index: 4;
+	bottom: 30px;
+	left: 680px;
+	height: 100px;
+	width: 200px;
 }
