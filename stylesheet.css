@@ -109,6 +109,13 @@ img {
 	width: 200px;
 }
 #ufo {
+	z-index: 4;
 	top: 45px;
 	right:45px;
+}
+#jet {
+
+}
+#fire {
+	z-index: 5;
 }
