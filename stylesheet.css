@@ -23,9 +23,17 @@ img {
 }
 #chicken {
 	z-index: ;
+	height: 60px;
+	width: 60px;
+	top: 600px;
+	right: 200px; 
 }
 #rooster {
 	z-index: ;
+	width: 70px;
+	height: 70px;
+	bottom: 10px;
+	right: 75px;
 }
 #goat {
 	z-index: ;
@@ -37,7 +45,11 @@ img {
 	z-index: ;
 }
 #farmer {
-	z-index: ;
+	z-index: 5;
+	bottom: 30px;
+	left: 100px;
+	height: 100px;
+	width: 100px;
 }
 #tractor {
 	z-index: ;
@@ -57,5 +69,5 @@ img {
 	z-index: ;
 }
 #fence {
-	z-index: ;
+	z-index: 4;
 }
