@@ -1,6 +1,9 @@
 body {
 	background-image: url(field-of-grass.jpg);
 }
+img {
+	position: absolute;
+}
 #barn{
 	z-index: ;
 	height: 500px;
